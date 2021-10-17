@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0662862c.chunk.css",
+    "main.js": "/static/js/main.d4df3098.chunk.js",
+    "main.js.map": "/static/js/main.d4df3098.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7e736075.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7e736075.js.map",
+    "static/js/2.783f5235.chunk.js": "/static/js/2.783f5235.chunk.js",
+    "static/js/2.783f5235.chunk.js.map": "/static/js/2.783f5235.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0662862c.chunk.css.map": "/static/css/main.0662862c.chunk.css.map",
+    "static/js/2.783f5235.chunk.js.LICENSE.txt": "/static/js/2.783f5235.chunk.js.LICENSE.txt",
+    "static/media/WhatsApp Image 2021-10-16 at 3.18.06 PM.d73a8d12.jpeg": "/static/media/WhatsApp Image 2021-10-16 at 3.18.06 PM.d73a8d12.jpeg",
+    "static/media/WhatsApp Image 2021-10-16 at 3.19.08 PM.f71a79b6.jpeg": "/static/media/WhatsApp Image 2021-10-16 at 3.19.08 PM.f71a79b6.jpeg",
+    "static/media/WhatsApp Image 2021-10-16 at 3.40.40 PM.41d1e7e7.jpeg": "/static/media/WhatsApp Image 2021-10-16 at 3.40.40 PM.41d1e7e7.jpeg",
+    "static/media/gal_img_full_2.9b02af6b.jpg": "/static/media/gal_img_full_2.9b02af6b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e736075.js",
+    "static/js/2.783f5235.chunk.js",
+    "static/css/main.0662862c.chunk.css",
+    "static/js/main.d4df3098.chunk.js"
+  ]
+}

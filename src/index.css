@@ -1,0 +1,60 @@
+
+
+
+.navbar-nav{
+    margin-left: 700px;
+}
+
+.navbar-brand{
+    margin-left: 50px;
+}
+
+.nav-item{
+    margin-left: 80px;
+}
+
+h1{
+    padding-top: 250px;
+    text-align: center;
+    color: #fff;
+    font-family: Bellefair,serif;
+    font-size: 40px;
+    line-height: 1.5;
+    font-weight: 300;
+    
+}
+
+img{
+    width:100px;
+    height: 100px;
+    
+}
+
+.width{
+    width: 100%;
+}
+
+.row{
+    margin-left: 80px;
+}
+
+
+
+h4{
+    margin-top: 30px;
+    font-family: sans-serif;
+}
+
+.tableCON{
+    margin-top: 100px;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+  }
+
+.tranfer{
+  text-align: center;
+  }
